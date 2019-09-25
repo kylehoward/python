@@ -1,0 +1,687 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "from flask import flask\n\napp = Flask(__name__)\n\n@app.route('/')\ndef hello_world():\n\treturn 'Hello, World!'\n\t",
+			"file": "1/api.py",
+			"file_size": 115,
+			"file_write_time": 132137519379859913,
+			"settings":
+			{
+				"buffer_size": 108,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "1/app.py",
+			"settings":
+			{
+				"buffer_size": 108,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"gitsa",
+				"Preferences: GitSavvy Settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"bracket",
+				"BracketHighlighter: Fold Bracket Content"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"open",
+				"Open URL: Settings"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"tab",
+				"Tabify"
+			],
+			[
+				"brack",
+				"Preferences: BracketGuard Settings - Default"
+			],
+			[
+				"tabify",
+				"Tabify"
+			],
+			[
+				"table",
+				"Table Cleaner: Align Table"
+			],
+			[
+				"Package Controinstall package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 96.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/209374/repos/python/proj/1"
+	],
+	"file_history":
+	[
+		"/C/Users/209374/repos/python/proj/1/api.py",
+		"/C/Users/209374/repos/nextbus-devops/build/predictor/python-evaluator/evaluator-deploy.py",
+		"/C/Users/209374/repos/nextbus-devops/build/predictor/python-trainer/trainerDeploy.py",
+		"/C/Users/209374/python/challenges/01/game.py",
+		"/C/Users/209374/Documents/nginx/prod-frontapi-nginx.conf",
+		"/C/Users/209374/Documents/nginx/prod-frontapi-tuning.conf",
+		"/C/Users/209374/Documents/nginx/prod-frontapi-nb-frontend-loadbalancer.conf",
+		"/C/Users/209374/python/challenges/01/game",
+		"/C/Users/209374/Documents/nginx/nextbus-api-8082",
+		"/C/Users/209374/Documents/nginx/nextbus-api-8081",
+		"/C/Users/209374/Documents/nginx/nextbus-api-8080",
+		"/C/Users/209374/Documents/nginx/prod-frontapi-cors-nginx.conf",
+		"/C/Users/209374/Documents/nginx/hazelcast",
+		"/C/Users/209374/Desktop/projects.cfg",
+		"/C/Users/209374/.aws/config",
+		"/C/Users/209374/.aws/credentials",
+		"/C/Users/209374/python/challenges/.git/config",
+		"/C/Users/209374/Documents/nginx/nextbus1-cloud-nginx-udp.sh",
+		"/C/Users/209374/Desktop/temp",
+		"/C/Users/209374/Documents/nginx-configs/api-frontend/tuning.conf",
+		"/C/Users/209374/Documents/nginx-configs/api-frontend/nginx.conf",
+		"/C/Users/209374/Documents/nginx-configs/api-frontend/nb-frontend-loadbalancer.conf",
+		"/C/Users/209374/Documents/nginx-configs/api-frontend/cors-nginx.conf",
+		"/C/Users/209374/Downloads/nextbus-live-files/accessKeys.csv",
+		"/C/cygwin64/home/209374/temp/github/devops/build/nodeModule/packageNextBusNodeModule.py",
+		"/C/Users/209374/Documents/howtos/Upgrade Node EC2.xlsx",
+		"/C/Users/209374/Documents/scripts/update-node.sh",
+		"/C/Users/209374/AppData/Roaming/Skype/RootTools/roottools.conf",
+		"/C/cygwin64/etc/DIR_COLORS",
+		"/C/Users/209374/Documents/repos/cubic-ea-tf-aws-logical-environment/main.tf",
+		"/C/Users/209374/.ssh/id_rsa",
+		"/C/Users/209374/.ssh/id_rsa.pub",
+		"/C/Users/209374/Documents/GitHub/cubic-ea-tf-aws-logical-environment/main.tf",
+		"/C/Users/209374/Documents/GitHub/cubic-ea-tf-aws-instance/README.md",
+		"/C/Users/209374/Desktop/oldspotinstances05-09-2019.json",
+		"/C/Users/209374/AppData/Roaming/Sublime Text 3/Packages/Diffy/Diffy.sublime-settings",
+		"/C/Users/209374/AppData/Local/Mozilla/Firefox/Profiles/hg5uw8lt.default/cache2/entries/0EED4ECFBC9B2859B86FC8F2E6987844FE0EED97",
+		"/C/Users/209374/AppData/Local/Mozilla/Firefox/Profiles/hg5uw8lt.default/cache2/entries/0AC7CF379E7D7BCA92F9774F3412E1E921F10BE9",
+		"/C/Users/209374/AppData/Local/Mozilla/Firefox/Profiles/hg5uw8lt.default/cache2/entries/E01FDD05A0F3FE011728D03620A62D1A83968939",
+		"/C/Users/209374/AppData/Local/Mozilla/Firefox/Profiles/hg5uw8lt.default/cache2/entries/E0BDD908EFF8949976ED2C12D75FBFDEFE58258C",
+		"/C/Users/209374/AppData/Local/Mozilla/Firefox/Profiles/hg5uw8lt.default/cache2/entries/D236E8325066A2A8375451E7CABD9D9C286F7615",
+		"/C/Users/209374/AppData/Local/Mozilla/Firefox/Profiles/hg5uw8lt.default/cache2/entries/A780D1325DD871C8717DC1240DF155AA93A816D8",
+		"/C/Users/209374/AppData/Local/Mozilla/Firefox/Profiles/hg5uw8lt.default/cache2/entries/668B5F7DD71CE90C1D71B4A828C964199F5DEDBF",
+		"/C/Users/209374/AppData/Local/Mozilla/Firefox/Profiles/hg5uw8lt.default/cache2/entries/0298AD6729148D26EF4370334D45F530BF4B64A8",
+		"/C/Users/209374/AppData/Local/Mozilla/Firefox/Profiles/hg5uw8lt.default/cache2/entries/17E1F9E6DD4F27742FD53CAEED038379EE87A973",
+		"/C/Users/209374/AppData/Local/Mozilla/Firefox/Profiles/hg5uw8lt.default/cache2/entries/9B2BA705CCFD99B05C5BC0FEBDEB07F781BB6176",
+		"/C/Users/209374/AppData/Local/Mozilla/Firefox/Profiles/hg5uw8lt.default/cache2/entries/8DCC2EFE2B641C02C866B9072ED59212CD0B8A3D",
+		"/C/Users/209374/AppData/Local/Mozilla/Firefox/Profiles/hg5uw8lt.default/cache2/entries/8D91EC2CDFB7A5865BE39F94D9BE62AEDDF06F30",
+		"/C/Users/209374/AppData/Local/Mozilla/Firefox/Profiles/hg5uw8lt.default/cache2/entries/8567CBBAF7247394056A768339B7C6180FEF6E52",
+		"/C/Users/209374/AppData/Local/Mozilla/Firefox/Profiles/hg5uw8lt.default/cache2/entries/FF346ADCD84200EE5E4C096E50A49BDDEEA040A0",
+		"/C/Users/209374/AppData/Local/Mozilla/Firefox/Profiles/hg5uw8lt.default/cache2/entries/F642F082221CA51CEDB34F4ABAAEDDAB26874064",
+		"/C/Users/209374/AppData/Local/Mozilla/Firefox/Profiles/hg5uw8lt.default/cache2/entries/F9699B6F99EAF0613459151507D5114BD53E39AA",
+		"/C/Users/209374/AppData/Local/Mozilla/Firefox/Profiles/hg5uw8lt.default/cache2/entries/FA2A34B83E52D726BF6E409869A8E06EB510293C",
+		"/C/Users/209374/Desktop/newspotinstances05-09-2019.json",
+		"/C/Users/209374/Desktop/644262169368_vpcflowlogs_us-west-2_fl-0d500e0da68c38089_20190508T2020Z_15b40e35.log",
+		"/C/Users/209374/Desktop/644262169368_vpcflowlogs_us-west-2_fl-0603840121df3f36a_20190508T1820Z_048bf562 (1).log",
+		"/C/Users/209374/Desktop/644262169368_vpcflowlogs_us-west-2_fl-0603840121df3f36a_20190508T1810Z_327e2683.log",
+		"/C/Users/209374/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/C/Users/209374/AppData/Roaming/Sublime Text 3/Packages/User/BracketGuard.sublime-settings",
+		"/C/Users/209374/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/Example.sublime-keymap",
+		"/C/Users/209374/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/209374/AppData/Roaming/Sublime Text 3/Packages/BracketGuard/BracketGuard.sublime-settings",
+		"/C/Users/209374/AppData/Roaming/Sublime Text 3/Packages/BracketGuard/Default (Windows).sublime-keymap",
+		"/C/Users/209374/Desktop/ELBAccessLogTestFile (7)",
+		"/C/Users/209374/Documents/repos/play-terraform.sublime-project",
+		"/C/Users/209374/Documents/repos/cubic-ea-tf-aws-security-groups/main.tf",
+		"/C/Users/209374/Desktop/644262169368_vpcflowlogs_us-west-2_fl-0603840121df3f36a_20190508T1820Z_048bf562.log",
+		"/C/Users/209374/Downloads/ELBAccessLogTestFile (6)",
+		"/C/Users/209374/Downloads/ELBAccessLogTestFile (5)",
+		"/C/Users/209374/Desktop/644262169368_vpcflowlogs_us-west-2_fl-0c59b18adc377e9f3_20190508T1640Z_6e503ba1.log",
+		"/C/Users/209374/Desktop/644262169368_vpcflowlogs_us-west-2_fl-0c59b18adc377e9f3_20190508T1630Z_c887183a.log",
+		"/C/Users/209374/Desktop/644262169368_vpcflowlogs_us-west-2_fl-0af6c851d6b375f20_20190508T1635Z_da668e6d.log",
+		"/C/Users/209374/AppData/Local/Temp/7zE4D3D14B9/644262169368_vpcflowlogs_us-west-2_fl-0c59b18adc377e9f3_20190508T1630Z_c887183a.log",
+		"/C/Users/209374/AppData/Roaming/Sublime Text 3/Packages/BracketFlasher/BracketFlasher.sublime-settings",
+		"/C/Users/209374/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/209374/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"HTTP_COOKIE",
+			"jtfla",
+			"jtfla-test",
+			" "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"   "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\209374\\repos\\python\\proj\\1"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "1/api.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 108,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								108,
+								108
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+							"git_savvy.repo_path": "C:\\Users\\209374\\repos\\python",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "1/app.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 108,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								108,
+								108
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"git_savvy.repo_path": "C:\\Users\\209374\\repos\\python",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 127.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python 3/Python3.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
